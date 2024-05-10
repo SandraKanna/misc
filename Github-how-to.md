@@ -1,7 +1,8 @@
 # Github essentials
+In Git we start with a main branch (commit 0) by default, then as we progress with a part of the code we register and keep track of the modifications through commits.
 
 ## Initialisation:
-Start tracking a new project with Git in a repository called repo1 that will be hosted in git@github.com:myorganization.
+To start tracking a new repository, for example repo1, which will be hosted in git@github.com:myorganization.
 * From local Repository:
     1. Create the local directory for repo1:
         - mkdir repo1
