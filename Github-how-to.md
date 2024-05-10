@@ -1,4 +1,4 @@
-# Github basics
+# Github essentials
 
 ## Initialisation:
 Start tracking a new project with Git in a repository called repo1 that will be hosted in git@github.com:myorganization.
